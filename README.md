@@ -1,12 +1,12 @@
 ## Hi there, I'm José Carlos 👋
 
 ## 🚀 A little bit about me and my interests
-I work as a Embedded Systems Engineer with a strong focus on Customer Success. I am a passionate about low level programming with over 3 years of hands-on experience in troubleshoting and developing innovative solutions for the embedded Technologies. My journey started as a 1st line customer success/support where I helped customers get most out of products. Currently I am focused on complex tehcnical problems and also development.
+I work as a Embedded Systems Engineer with a strong focus on Customer Success. I am a passionate about low level programming with over 3 years of hands-on experience in troubleshoting and developing innovative solutions for the embedded Technologies. My journey started as a 1st line customer success/support where I helped customers get most out of products. Currently I focus on complex tehcnical problems and contributing to development.
 
 ## 🛠️ Skills
 - **Programming Languages:** C, C++, Python, Embedded C/C++
-- **Microcontrollers:** STMicroelectronics,Microchip, Atmel
-- **Communication Protocols:** I2C, SPI, UART/USART, TCP/IP
+- **Microcontrollers:** STMicroelectronics, Microchip, ESP
+- **Communication Protocols:** I2C, SPI, UART/USART, TCP/IP, SNMP
 - **Peripherals:** DMA, Clock, Timer, Real Time Clock, GPIO, Interrupts, ADC, DAC, Watchdog
 - **RTOS:** FreeRTOS
 - **Embedded Software Development:** Bare-metal programming, Firmware development, Real-Time System development
